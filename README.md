@@ -56,11 +56,7 @@ Contributions are welcome! If you want to contribute to this project, please fol
 
 This project is licensed under the [MIT License](LICENSE).
 
-## References
 
-- [Reference Paper 1]
-- [Reference Paper 2]
-- [Reference Paper 3]
 
 Feel free to explore the referenced papers for further details on the implemented object detection frameworks.
 
